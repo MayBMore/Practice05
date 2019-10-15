@@ -1,0 +1,35 @@
+C:/LogicDesign/Practice05/Practice05/counter.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice05/Practice05/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cnt6
+-- Compiling module nco
+-- Compiling module top_cnt
+
+Top level modules:
+	top_cnt
+
+} {} {}} C:/LogicDesign/Practice05/Practice05/blocking.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice05/Practice05/blocking.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module block
+-- Compiling module nonblock
+
+Top level modules:
+	block
+	nonblock
+
+} {} {}} C:/LogicDesign/Practice05/Practice05/tb_cnt.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice05/Practice05/tb_cnt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_cnt
+-- Compiling module tb_top_cnt
+
+Top level modules:
+	tb_cnt
+	tb_top_cnt
+
+} {} {}} C:/LogicDesign/Practice05/Practice05/bnb.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice05/Practice05/bnb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_bnb
+
+Top level modules:
+	tb_bnb
+
+} {} {}}
